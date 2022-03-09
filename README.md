@@ -5,8 +5,6 @@
 
 <img align = "right" src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac03a17e-589d-4ac1-952a-4185d1070994/deyiydp-5e331f5a-0761-47bc-8b36-5edd245fd022.png/v1/fill/w_1280,h_2184,strp/kitagawa_marin_render_by_minhchauk1k_deyiydp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE4NCIsInBhdGgiOiJcL2ZcL2FjMDNhMTdlLTU4OWQtNGFjMS05NTJhLTQxODVkMTA3MDk5NFwvZGV5aXlkcC01ZTMzMWY1YS0wNzYxLTQ3YmMtOGIzNi01ZWRkMjQ1ZmQwMjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Egtygmtv-H59NQioLpw1YHAPa8dqflF7fKM3iTXqH9E" width = "300px" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshp2002" alt="rushikeshp2002" /></a> </p>
-
 
 
 - 🔭 I’m currently working on **Blinkers**
