@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rushikeshp7558@gmail.com**
 
-- ⚡ Fun fact **Javascript is like a girl you can never understand it**
+- ⚡ Fun fact: **Javascript is like a girl you can never understand it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
