@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">A passionate front-end Developer from India</h3>
 
@@ -36,4 +37,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshp2002&show_icons=true&locale=en&layout=compact" alt="rushikeshp2002" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshp2002&" alt="rushikeshp2002" /></p>
+
