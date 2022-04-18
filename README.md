@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshp2002&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshp2002" /> </p>
 
-<img align = "right" src = "https://i0.wp.com/www.designofox.com/wp-content/uploads/web-development.png?fit=400%2C397&ssl=1" width = "340px" >
+<img align = "right" src = "https://i0.wp.com/www.designofox.com/wp-content/uploads/web-development.png?fit=400%2C397&ssl=1" width = "300px" >
 
 
 
