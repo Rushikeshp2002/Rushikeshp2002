@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **Blinkers**
+- 🔭 I’m currently working on **Blitzz**
 
-- 🌱 I’m currently learning **Javascript , Reactjs and other frameworks**
+- 🌱 I’m currently learning **Javascript , Reactjs and Java Swing/Java FX**
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
