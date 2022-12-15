@@ -1,4 +1,4 @@
-<div align="center">
+
 <img src="https://github.com/Rushikeshp2002/DSA-Clg/blob/main/tumblr_1e59432e5fe2d7942df39fdd0223d294_8f45c6df_1280.webp" align="center" style="width: 100%">
 </div>  
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
