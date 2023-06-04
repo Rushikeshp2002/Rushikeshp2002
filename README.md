@@ -19,7 +19,7 @@
 - 💬 Ask me about **CSS & JavaScript**
 
 - 📫 Here's My Resume **https://drive.google.com/file/d/1TkAUGFBlzWBt72W61I_bu8f3dZJ0HKSe/view?usp=sharing**
-- 
+
 - ⚡ Fun fact: **Javascript is like a girl you can never understand it**
 
 <h3 align="left">Connect with me:</h3>
