@@ -10,17 +10,17 @@
 
 
 
-- 🔭 I’m currently working on **Blitzz**
+- 🔭 I’m currently working on **NMFExplorer: Curated Product Suggestions**
 
-- 🌱 I’m currently learning **Javascript , Reactjs and Java Swing/Java FX**
+- 🌱 I’m currently learning **Reactjs and Node**
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
-- 💬 Ask me about **CSS & JavaScript**
+- 💬 Ask me about **CSS , JavaScript And React**
 
 - 📫 Here's My Resume **https://drive.google.com/file/d/1TkAUGFBlzWBt72W61I_bu8f3dZJ0HKSe/view?usp=sharing**
 
-- ⚡ Fun fact: **Javascript is like a girl you can never understand it**
+- ⚡ Fun fact: ** No one yet has verified the identity of Bitcoin’s founder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
