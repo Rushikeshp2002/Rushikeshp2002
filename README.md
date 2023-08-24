@@ -20,7 +20,7 @@
 
 - 📫 Here's My Resume **https://drive.google.com/file/d/1TkAUGFBlzWBt72W61I_bu8f3dZJ0HKSe/view?usp=sharing**
 
-- ⚡ Fun fact: ** No one yet has verified the identity of Bitcoin’s founder**
+- ⚡ Fun fact: **No one yet has verified the identity of Bitcoin’s founder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
