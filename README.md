@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rushikeshp2002/DSA-Clg/blob/main/tumblr_1e59432e5fe2d7942df39fdd0223d294_8f45c6df_1280.webp" align="center" style="width: 100%">
+<img src="https://github.com/Rushikeshp2002/Images/blob/main/news24.gif" style="width: 100vw">
 </div>  
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">A passionate front-end Developer from India</h3>
