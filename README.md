@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshp2002&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshp2002" /> </p>
 
-<img align = "right" src = "https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg" width = "500rem" >
+<img align = "right" src = "https://github.com/Rushikeshp2002/Images/blob/main/200w.gif" style="width:20vw" >
 
 
 
