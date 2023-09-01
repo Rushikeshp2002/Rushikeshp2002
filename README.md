@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rushikeshp2002/Images/blob/main/news24.gif" align="center" style="width: 70vw" >
+<img src="https://github.com/Rushikeshp2002/Images/blob/main/3AyY.gif" style="height:37vw" align="center">
 </div>  
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">A passionate front-end Developer from India</h3>
