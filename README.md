@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **CSS , JavaScript And React**
 
-- 📫 Here's My Resume **https://drive.google.com/file/d/1TkAUGFBlzWBt72W61I_bu8f3dZJ0HKSe/view?usp=sharing**
+- 📫 Here's My Resume **https://drive.google.com/file/d/1C4po-X0wBnv-782Tf8ksWLhreDHsJjK4/view?usp=sharing**
 
 - ⚡ Fun fact: **No one yet has verified the identity of Bitcoin’s founder**
 
