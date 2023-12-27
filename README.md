@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Rushikeshp2002/Images/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" style="width:100vw" align="center">
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
-<h3 align="center">A passionate front-end Developer from India</h3>
+<h3 align="center">A passionate front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshp2002&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshp2002" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 🔭 I’m currently working on **NMFExplorer: Curated Product Suggestions**
 
-- 🌱 I’m currently learning **Reactjs and Node**
+- 🌱 I’m currently learning **Reactjs and NodeJs**
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
-- 💬 Ask me about **CSS , JavaScript And React**
-
-- 📫 Here's My Resume **https://drive.google.com/file/d/1EzlXD0WqbUSAE67VjaGpoqtPAiSP-G5e/view?usp=sharing**
+- 💬 Ask me about **React , JavaScript And TailwindCSS**
 
 - ⚡ Fun fact: **No one yet has verified the identity of Bitcoin’s founder**
 
