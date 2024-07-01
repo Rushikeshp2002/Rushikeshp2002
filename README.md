@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on **NMFExplorer: Curated Product Suggestions**
+- 🔭 I’m currently working on **Ai Resume Builder**
 
-- 🌱 I’m currently learning **Reactjs and NodeJs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
-- 💬 Ask me about **React , JavaScript And TailwindCSS**
+- 💬 Ask me about **React , Typescript , JavaScript And TailwindCSS**
 
 - ⚡ Fun fact: **No one yet has verified the identity of Bitcoin’s founder**
 
