@@ -8,16 +8,10 @@
 <img align = "right" src = "https://github.com/Rushikeshp2002/Images/blob/main/200w.gif" style="width:20vw" >
 
 
-
-- 🔭 I'm currently building **Sarthi AI** — an AI-powered study companion for students
-
 - 🌱 I'm currently deep into **AI Agent Architecture, RAG Pipelines & Prompt Engineering**
-
-- 👯 I'm looking to collaborate on **AI/LLM-powered products & full-stack projects**
 
 - 💬 Ask me about **Python, FastAPI, React Native, AI Agents, RAG, System Design**
 
-- ⚡ Fun fact: **A SQL query walks into a bar, sees two tables... and asks, "Can I JOIN you?"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
